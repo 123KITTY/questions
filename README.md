@@ -1,6 +1,6 @@
 # question-vue
 
-> 20191101 答题：vue 全家桶+ 
+> 20191101 答题：vue 全家桶 + mockjs
 
 ## Build Setup
 
